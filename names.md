@@ -1220,3 +1220,5 @@
 | 1216  | DARELL       |
 | 1217  | BRODERICK    |
 | 1218  | ALONSO       |
+| 1219  | ARIES        |
+| 1220  | HEPHAESTUS   |
